@@ -45,10 +45,10 @@
           <div class="collapse" id="propertyState">
             <ul class="nav sub-menu">
               <li class="nav-item">
-                <a href="#" class="nav-link">Lorem Ipsum</a>
+                <a href="{{ route('all.state') }}" class="nav-link">All Type</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">Lorem Ipsum</a>
+                <a href="{{ route('add.state') }}" class="nav-link">Add State</a>
               </li>
             </ul>
           </div>
