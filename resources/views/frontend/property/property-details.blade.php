@@ -137,7 +137,7 @@
                         </div>
                         <div class="nearby-box content-widget">
                             <div class="title-box">
-                                <h4>What’s Nearby??</h4>
+                                <h4>What’s Nearby?</h4>
                             </div>
 
                             <div class="inner-box">
